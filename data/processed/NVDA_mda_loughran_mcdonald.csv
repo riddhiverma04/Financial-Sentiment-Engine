@@ -1,0 +1,5 @@
+Accession_ID,MD&A_Char_Length,LM_negative_count,LM_negative_pct,LM_positive_count,LM_positive_pct,LM_uncertainty_count,LM_uncertainty_pct,LM_litigious_count,LM_litigious_pct,LM_constraining_count,LM_constraining_pct,LM_Net_Sentiment,Total_MD&A_Word_Count
+0001045810-25-000209,18000,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0.0,1019
+0001045810-25-000230,18000,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0.0,978
+0001045810-26-000052,18000,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0.0,896
+0001045810-26-000075,18000,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0.0,909

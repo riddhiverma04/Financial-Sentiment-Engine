@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+ENV/
+
+# Python Cache & Testing
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# System Files
+.DS_Store
